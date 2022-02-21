@@ -2,10 +2,12 @@
 
 
 # Chris Sprance
-### Technical Artist/Web Developer/SysAdmin
+### TD/Tech Artist/Web Dev/SysAdmin
 
-My name is Chris Sprance. I am a technical artist, producer, and man of many hats.
+Hi! 
 
-I'm in to Modo, Shaders, Game Development and Procedural stuff.
+My name is Chris Sprance. I am a Lead Character Technical Director, technical artist, programmer, and man of many hats.
+
+I'm in to Houdini, Modo, shaders, math, game development and everything procedural.
 
 I :heart: Open Source
